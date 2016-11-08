@@ -1,0 +1,17 @@
+body {
+    background-color: green;
+    color: #fff;
+}
+
+h1 {
+    color: red;
+}
+
+#progres_line {
+    height: 6px;
+    display: block;
+    position: fixed;
+    background-color: orange;
+    top: 0;
+    left: 0;
+}
